@@ -1,7 +1,7 @@
 # Tic-Tac-Toe-JS
 
 
-Live Website Link :  [https://ent-healthcare.firebaseapp.com](https://tic-tac-toe-js-nizstech.netlify.app/)
+Live Website Link :  https://tic-tac-toe-js-nizstech.netlify.app
 
 # FEATURES
    * Tic Tac Toe Game
